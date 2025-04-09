@@ -1,12 +1,54 @@
-- 👋 Hi, I’m @Antudas5252
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Antudas5252/Antudas5252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Antu Das
+
+I'm a first-year Electrical and Electronic Engineering student at CUET.  
+Curious about technology, coding, and learning how things work behind the scenes.
+
+---
+
+## 🔧 Currently Working On
+- Learning Python programming
+- Exploring the basics of Machine Learning
+- Trying out small electronics and Arduino projects
+- Starting my journey in app development
+
+---
+
+## 🛠️ Projects
+
+### 1. LED Blinking with Arduino
+Simple LED blinking project using Arduino UNO.  
+**Tools:** Arduino IDE  
+[View Project](https://github.com/Antudas5252/led-blink-arduino)
+
+---
+
+### 2. Voltage Divider Simulation
+A basic voltage divider simulated using Proteus.  
+**Tools:** Proteus, theoretical calculation  
+[View Project](https://github.com/Antudas5252/voltage-divider-sim)
+
+---
+
+### 3. Basic Image Classifier (ML)
+Image classifier built using Python and Scikit-learn.  
+**Tools:** Python, NumPy, Scikit-learn  
+[View Project](https://github.com/Antudas5252/image-classifier-ml)
+
+---
+
+## 🧠 Skills
+- **Programming:** Python (learning), C (basic)
+- **Tools:** Arduino, Proteus, Git & GitHub
+- **Learning:** Machine Learning, App Development, Computer Vision
+
+---
+
+## 📫 Contact Me
+- **Email:** antud730@gmail.com 
+- [LinkedIn](https://linkedin.com/in/antudas)
+- [Kaggle](https://kaggle.com/antudas5252) 
+
+---
+
+_“Learning never exhausts the mind.” – Leonardo da Vinci_
