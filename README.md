@@ -1,4 +1,3 @@
-
 # Hi, I'm Antu Das
 
 I'm a first-year Electrical and Electronic Engineering student at CUET.  
@@ -21,19 +20,24 @@ Simple LED blinking project using Arduino UNO.
 **Tools:** Arduino IDE  
 [View Project](https://github.com/Antudas5252/led-blink-arduino)
 
----
-
 ### 2. Voltage Divider Simulation
 A basic voltage divider simulated using Proteus.  
 **Tools:** Proteus, theoretical calculation  
 [View Project](https://github.com/Antudas5252/voltage-divider-sim)
 
----
-
 ### 3. Basic Image Classifier (ML)
 Image classifier built using Python and Scikit-learn.  
 **Tools:** Python, NumPy, Scikit-learn  
 [View Project](https://github.com/Antudas5252/image-classifier-ml)
+
+---
+
+## 📜 Certifications
+
+- **MATLAB Onramp**  
+  *Issued by MathWorks – June 13, 2025*  
+  [🔗 Course Info](https://matlabacademy.mathworks.com)  
+  [📄 Certificate (PDF)]
 
 ---
 
@@ -52,3 +56,4 @@ Image classifier built using Python and Scikit-learn.
 ---
 
 _“Learning never exhausts the mind.” – Leonardo da Vinci_
+
