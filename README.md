@@ -37,7 +37,7 @@ Image classifier built using Python and Scikit-learn.
 - **MATLAB Onramp**  
   *Issued by MathWorks – June 13, 2025*  
   [🔗 Course Info](https://matlabacademy.mathworks.com)  
-  [📄 Certificate (PDF)]
+  [📄 Certificate (PDF)]https://github.com/Antudas5252/Certifications/blob/0100591027e789d870edce5b23eb10e7f75d7208/certificate.pdf
 
 ---
 
